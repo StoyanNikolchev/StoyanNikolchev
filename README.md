@@ -1,7 +1,7 @@
 ![Header](./github-header-image.png)
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGpxemx1c24yeHBkaTl2eW9zb2IwcGI5NHdyYnFramMxcjRmajVjaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp">
 
-- 🔭 I’m currently working on [Quotependium](https://github.com/StoyanNikolchev/Quotependium)
+- 🔭 I’m currently working on [ToDoApp](https://github.com/StoyanNikolchev/ToDoApp)
 
 - 🌱 I’m currently learning **at Software University**
 
