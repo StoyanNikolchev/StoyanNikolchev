@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [ToDoApp](https://github.com/StoyanNikolchev/ToDoApp)
 
-- 🌱 Student of **at Software University**
+- 🌱 Student of **Software University**
 
 - 💬 Ask me about **Java**
 
